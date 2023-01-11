@@ -9,4 +9,4 @@ When the user clicks on the state mentioned,it shows some famous tourist places 
   2.  HTML5
   3.  CSS3
 # **Preview:**
-[Check some top recommendations here.](https://jj5nm8.csb.app/)
+[Check some top recommendations for your favourite places here.](https://jj5nm8.csb.app/)
