@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@700&display=swap");
+
+.App {
+  font-family: "Space Grotesk", "sans-serif";
+  text-align: center;
+  width: 45%;
+  margin: auto;
+}
+body {
+  color: aqua;
+  background-color: whitesmoke;
+}
+
+button {
+  background-color: black;
+  border: solid;
+  font-family: "Space Grotesk", "sans-serif";
+  color: aqua;
+  padding: 0.5rem 1rem;
+  margin-block: 0.5rem;
+  margin-inline: 1rem;
+  font-size: x-large;
+  border-radius: 2rem;
+  cursor: pointer;
+}
+.Explanation {
+  background-color: black;
+  border-radius: 5rem;
+  padding: 1rem;
+}
+ul {
+  font-size: large;
+  width: 90%;
+  margin-block: 10rem;
+  text-align: center;
+  list-style: none;
+  border-radius: 1rem;
+  border: 4pxsolid green;
+  padding: 1rem 1rem;
+  margin: auto;
+  border: solid aqua;
+}
